@@ -1,0 +1,29 @@
+.showcase__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.showcase__content .website__content {
+    width: 96%;
+    height: 85vh;
+}
+
+.showcase__content .website__content h1 {
+    text-align: center;
+    font-weight: 600;
+    color: white;
+}
+
+.showcase__content .website__content .showcase__elements {
+    height: 90%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.showcase__content .website__content .showcase__elements * {
+    margin-top: 10px;
+}

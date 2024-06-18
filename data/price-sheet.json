@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "GFX Artist",
+        "Description": "I will make high quality renders for low prices",
+        "List": ["Headshots", "Full body", "Small scenes"],
+        "Media": "../media/char-render.png"
+    },
+    {
+        "Name": "Scripter",
+        "Description": "Intermerdiate scripter with 1 year of experience",
+        "List": ["Systems", "Obbies", "Small games"],
+        "Media": "../media/script.png"
+    },
+    {
+        "Name": "LOGO Design",
+        "Description": "With over 3 years of study in graphic design",
+        "List": ["Logo", "User manual", "Business card"],
+        "Media": "../media/Elten logo.png"
+    }
+]

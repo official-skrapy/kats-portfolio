@@ -1,0 +1,40 @@
+.terms_website {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.terms_website .terms_content {
+    width: 96%;
+    height: 85vh;
+}
+
+.terms_website .terms_content h1 {
+    text-align: center;
+    font-weight: 600;
+    color: white;
+}
+
+.terms_website .terms_content .terms_elements {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.terms_website .terms_content .terms_elements h1 {
+    font-weight: 400;
+    padding-top: 0.5em;
+}
+
+.terms_website .terms_content .terms_elements ul {
+    padding-top: 0.25em;
+    list-style: none;
+}
+
+.terms_website .terms_content .terms_elements ul li {
+    padding-top: 0.1em;
+    text-decoration: none;
+    font-weight: 100;
+}
